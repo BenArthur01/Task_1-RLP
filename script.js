@@ -5,3 +5,4 @@ hamburger.addEventListener("click", () => {
     navLinks.style.display =
         navLinks.style.display === "flex" ? "none" : "flex";
 });
+
